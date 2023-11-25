@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: multiple
 title : "Arrays and strings"
 ---
 
@@ -9,7 +9,7 @@ title : "Arrays and strings"
 - If you have a mutable array arr = ["a", "b", "c"] and an immutable string s = "abc", but you want to instead represent "abd", you can easily do arr[2] = "d", but you cannot do s[2] = "d". As such, if you wanted the string s = "abd",
 
 ---
-layout: single
+layout: multiple
 title : "Two pointers"
 ---
 
